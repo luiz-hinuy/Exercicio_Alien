@@ -1,2 +1,2 @@
-# Exerc-cio_Alien
+# Exercicio_Alien
 Atividade ponderada da semana 03
